@@ -1,0 +1,44 @@
+C:\Users\eev\Desktop\hack\face_detecton\i rely solely on god\bin\Debug\i rely solely on god.exe
+C:\Users\eev\Desktop\hack\face_detecton\i rely solely on god\bin\Debug\i rely solely on god.pdb
+C:\Users\eev\Desktop\hack\face_detecton\i rely solely on god\bin\Debug\AForge.dll
+C:\Users\eev\Desktop\hack\face_detecton\i rely solely on god\bin\Debug\WeifenLuo.WinFormsUI.dll
+C:\Users\eev\Desktop\hack\face_detecton\i rely solely on god\bin\Debug\SourceGrid2.dll
+C:\Users\eev\Desktop\hack\face_detecton\i rely solely on god\bin\Debug\DockingToolbar.dll
+C:\Users\eev\Desktop\hack\face_detecton\i rely solely on god\bin\Debug\SourceLibrary.dll
+C:\Users\eev\Desktop\hack\face_detecton\i rely solely on god\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eev\Desktop\hack\face_detecton\i rely solely on god\obj\Debug\i_rely_solely_on_god.Form1.resources
+C:\Users\eev\Desktop\hack\face_detecton\i rely solely on god\obj\Debug\i_rely_solely_on_god.Properties.Resources.resources
+C:\Users\eev\Desktop\hack\face_detecton\i rely solely on god\obj\Debug\ResGen.read.1.tlog
+C:\Users\eev\Desktop\hack\face_detecton\i rely solely on god\obj\Debug\ResGen.write.1.tlog
+C:\Users\eev\Desktop\hack\face_detecton\i rely solely on god\obj\Debug\i rely solely on god.exe
+C:\Users\eev\Desktop\hack\face_detecton\i rely solely on god\obj\Debug\i rely solely on god.pdb
+D:\n\face_detecton\i rely solely on god\obj\Debug\i rely solely on god.exe
+D:\n\face_detecton\i rely solely on god\obj\Debug\i rely solely on god.pdb
+D:\n\face_detecton\i rely solely on god\bin\Debug\i rely solely on god.exe
+D:\n\face_detecton\i rely solely on god\bin\Debug\i rely solely on god.pdb
+D:\n\face_detecton\i rely solely on god\bin\Debug\AForge.dll
+D:\n\face_detecton\i rely solely on god\bin\Debug\WeifenLuo.WinFormsUI.dll
+D:\n\face_detecton\i rely solely on god\bin\Debug\SourceGrid2.dll
+D:\n\face_detecton\i rely solely on god\bin\Debug\DockingToolbar.dll
+D:\n\face_detecton\i rely solely on god\bin\Debug\SourceLibrary.dll
+D:\n\face_detecton\i rely solely on god\obj\Debug\ResolveAssemblyReference.cache
+D:\n\face_detecton\i rely solely on god\obj\Debug\i_rely_solely_on_god.Form1.resources
+D:\n\face_detecton\i rely solely on god\obj\Debug\i_rely_solely_on_god.Properties.Resources.resources
+D:\n\face_detecton\i rely solely on god\obj\Debug\ResGen.read.1.tlog
+D:\n\face_detecton\i rely solely on god\obj\Debug\ResGen.write.1.tlog
+C:\Users\eev\Desktop\face_detecton\i rely solely on god\obj\Debug\i rely solely on god.exe
+C:\Users\eev\Desktop\face_detecton\i rely solely on god\obj\Debug\i rely solely on god.pdb
+C:\Users\eev\Desktop\face_detecton\i rely solely on god\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eev\Desktop\face_detecton\i rely solely on god\obj\Debug\i_rely_solely_on_god.Form1.resources
+C:\Users\eev\Desktop\face_detecton\i rely solely on god\obj\Debug\i_rely_solely_on_god.Properties.Resources.resources
+C:\Users\eev\Desktop\face_detecton\i rely solely on god\obj\Debug\ResGen.read.1.tlog
+C:\Users\eev\Desktop\face_detecton\i rely solely on god\obj\Debug\ResGen.write.1.tlog
+C:\Users\eev\Desktop\face_detecton\i rely solely on god\bin\Debug\i rely solely on god.exe
+C:\Users\eev\Desktop\face_detecton\i rely solely on god\bin\Debug\i rely solely on god.pdb
+C:\Users\eev\Desktop\face_detecton\i rely solely on god\bin\Debug\AForge.dll
+C:\Users\eev\Desktop\face_detecton\i rely solely on god\bin\Debug\WeifenLuo.WinFormsUI.dll
+C:\Users\eev\Desktop\face_detecton\i rely solely on god\bin\Debug\SourceGrid2.dll
+C:\Users\eev\Desktop\face_detecton\i rely solely on god\bin\Debug\DockingToolbar.dll
+C:\Users\eev\Desktop\face_detecton\i rely solely on god\bin\Debug\SourceLibrary.dll
+H:\face_detecton\face_detecton\i rely solely on god\obj\Debug\i rely solely on god.exe
+H:\face_detecton\face_detecton\i rely solely on god\obj\Debug\i rely solely on god.pdb
